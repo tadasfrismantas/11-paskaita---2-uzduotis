@@ -1,0 +1,128 @@
+.section1 {
+  width: 100%;
+  color: white;
+  background-color: blue;
+  border: none;
+  margin-top: 0;
+  padding-top: 0;
+}
+
+section h1 {
+  width: 60%;
+  padding-top: 100px;
+  text-align: left;
+  margin-top: 0;
+  margin-left: 100px;
+  padding-right: 100px;
+  padding-bottom: 15px;
+  border-bottom: 3px solid white;
+  border-width: 80%;
+}
+
+button {
+  color: white;
+  background-color: blue;
+  border-color: white;
+}
+
+.flex-container1 {
+  display: flex;
+  align-items: flex-start;
+  width: 60%;
+  margin-left: 100px;
+  padding-right: 100px;
+  padding-bottom: 100px;
+  justify-content: flex-start;
+}
+
+.area1 {
+  width: 70%;
+  margin-right: 20px;
+  text-align: justify;
+}
+
+.area2 {
+  width: 30%;
+  align-self: flex-start;
+}
+
+.section2 {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  color: white;
+  border: none;
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.area3 {
+  background-color: aquamarine;
+  padding-bottom: 100px;
+}
+
+.area4 {
+  background-color: purple;
+  padding-bottom: 100px;
+}
+
+h3,
+h2 {
+  width: 50%;
+  padding-top: 100px;
+  text-align: left;
+  margin-top: 0;
+  margin-left: 100px;
+  padding-right: 100px;
+  padding-bottom: 15px;
+  border-bottom: 3px solid white;
+  border-width: 80%;
+}
+
+.point {
+  text-align: left;
+  margin-top: 0;
+  margin-left: 100px;
+  padding-right: 100px;
+  padding-bottom: 15px;
+}
+
+.section3 {
+  display: flex;
+  flex-direction: row-reverse;
+  width: 100%;
+  color: white;
+  border: none;
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.area5 {
+  background-color: palevioletred;
+  padding-bottom: 100px;
+}
+
+.area6 {
+  background-color: orange;
+  padding-bottom: 100px;
+}
+
+.area7 {
+  background-color: rgb(100, 100, 190);
+  padding-bottom: 100px;
+}
+
+.area8 {
+  background-color: green;
+  padding-bottom: 100px;
+}
+
+.flex-container2 {
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+  margin-left: 100px;
+  padding-right: 100px;
+  padding-bottom: 100px;
+  justify-content: flex-start;
+}
